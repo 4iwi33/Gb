@@ -2,7 +2,7 @@ Username: OC1XpcxrMk
 
 Database name: OC1XpcxrMk
 
-Password: 9IWD7nc8nS
+Password: PsLnVkWI7m
 
 Server: remotemysql.com
 
